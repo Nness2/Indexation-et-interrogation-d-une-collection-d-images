@@ -1,2 +1,2 @@
 Utilisez le Makefile pour compiler.
-Des images de teste sont disponible dans le repértoire Images. 
+Des images sont disponible dans le repértoire Images pour tester le programme. 
